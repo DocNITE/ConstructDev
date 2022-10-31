@@ -1,0 +1,15 @@
+{
+    "ENGINE_NAME": "ConstructDev",
+    "ENGINE_VER": [0, 0, 1],
+
+    "DEBUG": true,
+    
+    "SCREEN": 
+    {
+        "WIDTH": 800,
+        "HEIGHT": 600,
+        "FULLSCREEN": true,
+
+        "ALIGMENT" : 0
+    }
+}
